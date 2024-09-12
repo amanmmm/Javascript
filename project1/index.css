@@ -1,0 +1,32 @@
+/* Style for buttons with different background colors */
+#grey {
+    height: 50px;
+    width: 50px;
+    background-color: grey; /* Use background-color to set button's background */
+    border: none; /* Optional: Remove border */
+    color: white; /* Optional: Set text color to contrast with background */
+}
+
+#white {
+    height: 50px;
+    width: 50px;
+    background-color: white; /* Background color set to white */
+    border: none;
+    color: black; /* Optional: Set text color to contrast with background */
+}
+
+#blue {
+    height: 50px;
+    width: 50px;
+    background-color: blue; /* Background color set to blue */
+    border: none;
+    color: white; /* Optional: Set text color to contrast with background */
+}
+
+#yellow {
+    height: 50px;
+    width: 50px;
+    background-color: yellow; /* Background color set to yellow */
+    border: none;
+    color: black; /* Optional: Set text color to contrast with background */
+}
